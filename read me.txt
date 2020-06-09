@@ -1,0 +1,7 @@
+Variable details:
+a) Date - Days when the stock was traded on the stock market
+b) Open - Price at which the stock openned for that day
+c) High - Highest price at which the stock traded for that day
+d) Low - Lowest price at which the stock traded for that day
+e) Close - Price at which the stock closed for that day
+f) Volume - The number of transactions /volume of stock traded for that day
